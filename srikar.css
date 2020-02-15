@@ -1,0 +1,65 @@
+
+        @import url('https://fonts.googleapis.com/css?family=Monofett|Monoton|Oswald|Roboto&display=swap');
+            header{
+                color:blue;
+            font-family:"Monofett";
+            background-color:yellow;
+             border: 15px double black;
+             text-align:justify;
+            }
+            section{
+                font-style: italic;
+                background-color: pink;
+                border:15px solid black;
+            }
+            body{
+                background-color: pink;
+            }
+            h2:hover{
+                size:300px;
+                color: black;
+                font-family:"Monoton";   
+                background-color: pink;
+            }
+            .sai{
+                color:blue;
+                background-color: pink;
+                font-style: italic;
+                font-family:"roboto";
+                border:15px solid red;
+                
+            }
+            .qwer{
+                color:orange;
+                font-size: 14px;
+                font-style:normal;
+            }
+            .sri{
+                color:green;
+                font-size: 18px;
+                font-weight: normal;
+            }
+            .devi{
+                font-style:italic;
+                font-weight: 700;
+            }
+            .sye{
+                font-weight:bold;
+                color: rgb(123,121,142);
+
+            }
+            .sus{
+                text-align: left;
+    
+            }
+            .jyo{
+                text-align:center;
+            }
+            .daddy{
+                text-align:right;
+            }
+            /*#var{
+                color:blue;
+                border:15px solid red;
+            }*/
+       
