@@ -1,0 +1,38 @@
+/* Write your CSS here */
+@import url('https://fonts.googleapis.com/css?family=Monofett|Monoton|Oswald|Roboto&display=swap');
+h1{
+    font-family:"Roboto"; 
+}
+.name{
+    font-family:"Roboto";
+    font-size:20px; 
+    margin-bottom:20px; 
+}
+.phno{
+    font-family:"Roboto";
+    font-size:20px; 
+    margin-bottom:20px; 
+}
+.gmail{
+    font-family:"Roboto";
+    font-size:20px;
+    margin-bottom:50px; 
+}
+.follow{
+    color:blue;
+    font-size:30px;
+    margin-bottom:15px;
+    padding-left:73px;
+    font-family:"Roboto";
+}
+img{
+    height:50px;
+    width:50px;
+    margin-right:29.5px;
+}
+.b{
+    border-bottom:3px solid blue; 
+}
+body{
+    padding:15px;
+}
