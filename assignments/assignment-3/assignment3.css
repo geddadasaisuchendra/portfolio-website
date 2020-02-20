@@ -2,13 +2,14 @@
 @import url('https://fonts.googleapis.com/css?family=Monofett|Monoton|Oswald|Roboto&display=swap');
 .e{
     border-bottom:1px solid blue;
+    display:inline-block;
 }
 h1{
     color:skyblue; 
 }
 .r{
-    color:black;
     font-family:"roboto";
+    color:black;
 }
 .esd{
     width:20%;
@@ -21,7 +22,7 @@ h1{
     margin-right:5%;
 }
 .d{
-    font-weight:lighter;  
+    font-weight:lighter; 
 }
 .wqw{
     border:1px solid grey;
