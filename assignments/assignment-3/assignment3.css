@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Monofett|Monoton|Oswald|Roboto&display=swap');
 .e{
     border-bottom:1px solid blue;
-    display:inline-block;
 }
 h1{
     color:skyblue; 
@@ -26,6 +25,6 @@ h1{
 }
 .wqw{
     border:1px solid grey;
-    padding:15px;
+    padding:4%;
     background-color:grey;
 }
