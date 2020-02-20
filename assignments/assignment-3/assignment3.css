@@ -1,0 +1,30 @@
+/* Write your CSS here */
+@import url('https://fonts.googleapis.com/css?family=Monofett|Monoton|Oswald|Roboto&display=swap');
+.e{
+    border-bottom:1px solid blue;
+}
+h1{
+    color:skyblue; 
+}
+.r{
+    color:black;
+    font-family:"roboto";
+}
+.esd{
+    width:20%;
+    background-color:white;
+    display:inline-block;
+    border-radius:15px;
+    padding:5%; 
+}
+.v{
+    margin-right:5%;
+}
+.d{
+    font-weight:lighter;  
+}
+.wqw{
+    border:1px solid grey;
+    padding:15px;
+    background-color:grey;
+}
