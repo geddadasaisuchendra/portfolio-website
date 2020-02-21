@@ -1,0 +1,39 @@
+
+.main{
+    text-align:center; 
+}
+.tech{
+    background-color:skyblue;
+    border-radius:20px;
+    display:inline-block;
+    text-align:center; 
+    border:1px solid black;
+    margin-right:2%;
+}
+.managment{
+    background-color:lightgray;
+    border-radius:20px;
+    display:inline-block;
+    text-align:center; 
+    border:1px solid black;
+    margin-right:2%;
+}
+.he{
+    background-color:white;
+    border-radius:20px;
+    display:inline-block;
+    text-align:center; 
+    border:1px solid black;
+    margin-right:2%;
+}
+.eship{
+    background-color:white;
+    border-radius:20px;
+    text-align:center;
+    border:1px solid black;
+    margin-right:2%;
+}
+.total{
+    padding-left:25%;
+    padding-right:25%; 
+}    
