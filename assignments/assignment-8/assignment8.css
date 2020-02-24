@@ -1,0 +1,64 @@
+/* Write your CSS here */
+*{
+    margin:0;
+    padding:0;
+}
+
+figure{
+    background-image:url(../../IMG_20200224_153851__01.jpg); 
+    -webkit-clip-path:circle(35%);
+    background-size:contain;
+     height:300px;
+     width:300px;
+}
+.border{
+    -webkit-clip-path:circle(37%);
+    background-color:white; 
+    height:300px;
+     width:300px;
+}
+.text{
+    text-align:center;
+    color:white;
+    font-size:50px;
+    margin-top:-50px;
+}
+.tex{
+    text-align:center;
+    color:white;
+    padding-bottom:100px;
+    font-size:50px;
+}
+.li{
+    margin-bottom:-1000px;
+}
+ul{
+    list-style-type:none;
+    overflow:hidden; 
+    background-color:white;
+    border-radius:35px;
+    padding-left:300px;
+    margin:15px;
+}
+li{
+    float:left;
+}
+li a{
+    display:block;
+    padding:8px;
+    text-decoration:none;
+}
+li a:hover{
+    background-color:pink; 
+}
+.image{
+    padding-left:35%;
+    padding-top:19%;
+}
+body{
+    background-image:url(assets/bg-image.jpg);
+    background-repeat:no-repeat;
+    height:100vh; 
+    width:100%;
+    background-size:cover; 
+}

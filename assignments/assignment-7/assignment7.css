@@ -2,6 +2,9 @@
 body{
     padding:200px; 
 }
+img{
+    -webkit-clip-path: circle(50.1% at 50% 50%);
+}
 h1{
     text-align:center;
     font-size:15px;
