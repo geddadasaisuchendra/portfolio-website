@@ -1,0 +1,18 @@
+/* Write your CSS here */
+body{
+    background-image:url(assets/rabbit.jpeg); 
+    height:350px; 
+    width:527px;
+    background-repeat:no-repeat;
+    background-size:contain; 
+}
+.session1{
+    width:250px;
+    height:250px;
+    border:23px solid orange;
+    display:inline-block; 
+    margin-left:25%;
+    margin-top:8%;
+    margin-right:10%; 
+    box-sizing:border-box; 
+}
