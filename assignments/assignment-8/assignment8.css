@@ -5,7 +5,7 @@
 }
 
 figure{
-    background-image:url(../../IMG_20200224_153851__01.jpg); 
+    background-image:url(../../IMG_20200224_153851__01.jpg);
     -webkit-clip-path:circle(35%);
     background-size:contain;
      height:300px;
@@ -21,7 +21,7 @@ figure{
     text-align:center;
     color:white;
     font-size:50px;
-    margin-top:-50px;
+    margin-top:-20px;
 }
 .tex{
     text-align:center;
@@ -39,6 +39,7 @@ ul{
     border-radius:35px;
     padding-left:300px;
     margin:15px;
+    margin-top:30px; 
 }
 li{
     float:left;
@@ -52,13 +53,13 @@ li a:hover{
     background-color:pink; 
 }
 .image{
-    padding-left:35%;
+    padding-left:37%;
     padding-top:19%;
 }
 body{
     background-image:url(assets/bg-image.jpg);
     background-repeat:no-repeat;
-    height:100vh; 
+    height:90vh; 
     width:100%;
     background-size:cover; 
 }
