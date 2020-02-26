@@ -20,10 +20,14 @@
     background-color:lightgray;
     /*height:166px;*/
     text-align:center;
+    font-size:100px; 
     padding-top:60px;
     border-radius:10px;
     /*margin:5%;*/
     /*box-sizing:border-box; */
+}
+a{
+    color:white;
 }
 footer{
     background-color:dodgerblue;
