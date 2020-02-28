@@ -1,0 +1,40 @@
+.extra-small{
+    background-color:orange;
+    margin-bottom:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border:3px solid black;
+    text-align:center; 
+}
+.small{
+    background-color:#00c8ff;
+    padding-top:20px; 
+    padding-bottom:20px;
+    margin-bottom: 20px;
+    border:3px dashed black;
+    text-align:center;
+}
+.medium{
+    background-color:#246caf;
+    padding-top:30px; 
+    padding-bottom:30px;
+    margin-bottom: 30px;
+    border:3px dotted black;
+    text-align:center;
+}
+.large{
+    background-color:#7985ff;
+    padding-top:40px; 
+    padding-bottom:40px;
+    margin-bottom: 40px;
+    border:3px solid black;
+    text-align:center;
+}
+.extralarge{
+    background-color:white;
+    padding-top:50px; 
+    padding-bottom:50px;
+    margin-bottom:50px;
+    border:3px solid black;
+    text-align:center;
+}
