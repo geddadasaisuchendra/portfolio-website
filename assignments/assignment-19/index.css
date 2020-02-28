@@ -1,9 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css?family=Monofett|Monoton|Oswald|Roboto&display=swap');
 ul{
     list-style-type:none; 
 }
 h6{
     padding-left:37px;
 }
+li{
+   font-size:10px;  
+}
 .month{
     color:lightgray;
+}
+.heading{
+    font-family:"Roboto"; 
+    font-weight:lighter; 
+    color:gray;
 }
