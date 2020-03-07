@@ -1,0 +1,63 @@
+.bimage{
+    height:20px;
+}
+.profilephoto{
+    text-align:center;
+    padding-bottom:30px;
+}
+.sec1{
+    text-align:center;
+    color:white;
+}
+.contactus{
+    background-color:blue;
+    color:white;
+    padding:10px;
+}
+.listitem{
+    list-style-type:none;
+    display:inline;
+    padding-left:5px;
+    color:skyblue;
+    font-size:13px; 
+}
+.unorderlist{
+    margin-top:13px;
+}
+.bgimage{
+    background-image:url(assets/background.jpg);
+    height:700px;
+    background-size:cover; 
+    background-repeat:no-repeat; 
+    background-position:center center; 
+}
+.profile{
+    border-radius:30px;
+}
+.nulla{
+    background-color:blue;
+    padding:10px;
+    border-radius:5px;
+    color:white;
+}
+.card{
+    height:100%;
+}
+.backgroundimage2{
+    background-image:url(assets/card-image-2.jpg);
+    height:100%;
+    background-repeat:no-repeat;
+    background-size:cover; 
+}
+.wrap{
+    background-color:#00000050;
+    height:100%;
+    padding-top:200px;
+}
+.sed{
+    
+     background-color:lightgray;
+     border-radius:5px;
+    padding:10px;
+    color:white;
+}
