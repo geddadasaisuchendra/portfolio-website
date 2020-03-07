@@ -1,0 +1,75 @@
+.list{
+    list-style-type:none;
+    text-align:center; 
+    color:lightgray;
+}
+.listitems{
+    padding-left:30px;
+    color:lightgrey;
+}
+.listitem{
+    padding-right:30px;
+    color:lightgray;
+}
+.github{
+    -webkit-filter:invert(100%);
+}
+/*.bar{*/
+/*    margin-bottom:-15px;*/
+/*} */
+li{
+   display:inline-block;
+    padding:4px;
+    padding-bottom:6px; 
+    font-size:12px;
+    text-align:center; 
+}
+header{
+    text-align:center;
+    padding:30px;
+    background-color:lightgray; 
+    margin-top:-16px; 
+}
+.trend{
+    border-bottom:2px solid blue;
+    color:black;
+}
+.openGL{
+    height:100px;
+}
+.opcard{
+    text-align:center;
+    height:100%;
+}
+.ash{
+    background-color:lightgray;
+    padding:10px 15px 10px 15px;
+    border-radius:5px;
+}
+.description{
+    font-size:13px;
+}
+.col-1{
+    margin-right:30px; 
+}
+.d{
+   margin-top:-5px;   
+}
+.features{
+    padding-bottom:15px; 
+}
+.feature{
+    height:50px;
+    width:50px; 
+    margin-left:-5px; 
+}
+.populartopics{
+    background-color: #cce6ff;
+    padding:5px;
+}
+.subtopics{
+    margin-bottom:5px;
+}
+.more{
+    margin-left:-40px; 
+}

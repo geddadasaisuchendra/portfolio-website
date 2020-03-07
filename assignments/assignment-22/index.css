@@ -4,15 +4,15 @@ header{
 }
 .card{
     text-align:center; 
-    margin-top:20px;
-    height:90%;
+    /*margin-top:20px;*/
+    height:100%;
 }
-.para{
-    font-size:13px; 
-}
+/*.para{*/
+/*    font-size:13px; */
+/*}*/
 h3{
-    font-size:13px;
+    font-size:20px;
 }
-.button{
-    margin-left:45%;
+.btn{
+    margin:auto; 
 }
