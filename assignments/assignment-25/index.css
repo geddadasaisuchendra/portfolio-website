@@ -53,6 +53,7 @@
     background-color:#00000050;
     height:100%;
     padding-top:200px;
+    padding-left:20px; 
 }
 .sed{
     
@@ -60,4 +61,31 @@
      border-radius:5px;
     padding:10px;
     color:white;
+}
+.buttons{
+    margin-top:25px;
+    margin-bottom:25px;
+    text-align:center;
+}
+.firstcard{
+    text-align:center;
+    margin-top:25px;
+    margin-bottom:25px;
+}
+.bottomimage{
+    height:45vh;
+    width:100%;
+    margin-bottom:15px;
+}
+/*.cardone{*/
+/*    margin-bottom:30px;*/
+    
+/*}*/
+/*.cardtwo{*/
+/*    height:350px;*/
+/*    width:350px;*/
+/*}*/
+.cardimagetop{
+    height:200px;
+    width:200px;
 }
