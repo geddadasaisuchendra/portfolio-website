@@ -1,0 +1,19 @@
+
+body{
+    padding: 10px 20px 10px 20px;
+}
+
+@media (max-width:767px){
+    .box{
+        width:100%;
+    }
+    .box{
+        width:100%;
+    }
+}
+@media (min-width:768px){
+    .box{
+        width:45%;
+        display:inline-block;
+    }
+}
