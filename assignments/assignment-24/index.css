@@ -13,6 +13,7 @@
 }
 .github{
     -webkit-filter:invert(100%);
+    margin-top:15px;
 }
 /*.bar{*/
 /*    margin-bottom:-15px;*/
@@ -72,4 +73,13 @@ header{
 }
 .more{
     margin-left:-40px; 
+}
+.search-bar{
+    color:lightgray;
+    background-color:#4d4d4d; 
+    border:0;
+}
+.v{
+    font-size:10px;
+    color:white;
 }

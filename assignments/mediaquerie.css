@@ -1,0 +1,77 @@
+/*@import url(mediaquerie1.css);*/
+/*@media all {*/
+/*    body{color:red;}*/
+/*}*/
+/*@media (max-width:767px){*/
+/*    body{*/
+/*        color:white;*/
+/*        background-color:pink; */
+/*    }*/
+/*}*/
+/*@media (min-width:768px){*/
+/*    body{*/
+/*        background-color:blue;*/
+/*    }*/
+/*}*/
+/*@media all and (min-width:992px){*/
+/*    body{*/
+/*        background-color:orange;*/
+/*    }*/
+/*}*/
+/*@media only screen and (min-height:900px) and  (max-width:1024px){*/
+/*    body{*/
+/*        background-color:orange;*/
+/*    }*/
+/*}*/
+/*.box{*/
+/* margin:0;*/
+/* padding:0;*/
+/* font-size:0; */
+/*}*/
+/* @media (max-width:576px){*/
+/*     .block-1{*/
+/*         width:100%;*/
+/*         height:250px;*/
+/*         display:inline-block;*/
+/*         border:5px dashed yellow;*/
+/*         background-color:blue;*/
+/*         box-sizing:border-box;*/
+         
+/*     }*/
+/* }*/
+/*  @media only screen and (min-width:500px){*/
+/*     .block-1{*/
+/*         width:50%;*/
+/*         height:250px;*/
+/*         display:inline-block;*/
+/*         border:5px dashed blue;*/
+/*         background-color:orange;*/
+/*         box-sizing:border-box;*/
+         
+/*     }*/
+/* }*/
+/* @media only screen and (min-width:800px){*/
+/*     .block-1{*/
+/*         width:33%;*/
+/*         height:250px;*/
+/*         display:inline-block;*/
+/*         border:5px dashed black;*/
+/*         background-color:pink;*/
+/*         box-sizing:border-box;*/
+         
+/*     }*/
+/* }*/
+.head{
+ background-color:lightgray; 
+ text-align:center; 
+}
+@media (max-width:800px){
+ .box{
+     border:5px solid black;
+ }
+}
+@media (min-width:1024px){
+ .box{
+     border:5px dashed black;
+ }
+}
