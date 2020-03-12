@@ -1,0 +1,51 @@
+.heading{
+    text-align:center;
+}
+@media (max-width:768px){
+    .heading{
+        font-size:32px; 
+    }
+    .second-heading{
+        font-size:24px;
+    }
+    .para{
+        font-size:14px; 
+        width:100%;
+    }
+}
+@media (min-width:768px){
+    .heading{
+        font-size:36px; 
+    }
+    .second-heading{
+        font-size:28px;
+    }
+    .small{
+        font-size:16px; 
+    }
+    .para{
+        width:45%;
+        display:inline-block;
+        vertical-align:top; 
+    }
+}
+@media (min-width:998px){
+    .heading{
+        font-size:40px; 
+    }
+    .second-heading{
+        font-size:32px;
+    }
+    .small{
+        font-size:18px;
+        color:blue;
+    }
+    .para{
+        width:33%;
+        display:inline-block;
+        vertical-align:top;
+    }
+    .sai{
+        display: none;
+    }
+}
